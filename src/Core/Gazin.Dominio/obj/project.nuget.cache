@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ylxb0UsYq+8/lbG6dNKECqviYZZa0/evvXqBfz9ZiH7UPPYumzXU82nVT1zA6Hb79A3/PfQmZpkm3MK6XpSUCg==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\Gazin\\src\\Core\\Gazin.Dominio\\Gazin.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cristimar\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

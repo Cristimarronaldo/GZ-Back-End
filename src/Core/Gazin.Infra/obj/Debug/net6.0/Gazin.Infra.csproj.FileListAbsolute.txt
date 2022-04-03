@@ -1,0 +1,17 @@
+C:\Projetos\Gazin\src\Core\Gazin.Infra\bin\Debug\net6.0\Gazin.Infra.deps.json
+C:\Projetos\Gazin\src\Core\Gazin.Infra\bin\Debug\net6.0\Gazin.Infra.runtimeconfig.json
+C:\Projetos\Gazin\src\Core\Gazin.Infra\bin\Debug\net6.0\Gazin.Infra.dll
+C:\Projetos\Gazin\src\Core\Gazin.Infra\bin\Debug\net6.0\ref\Gazin.Infra.dll
+C:\Projetos\Gazin\src\Core\Gazin.Infra\bin\Debug\net6.0\Gazin.Infra.pdb
+C:\Projetos\Gazin\src\Core\Gazin.Infra\bin\Debug\net6.0\Gazin.Dominio.dll
+C:\Projetos\Gazin\src\Core\Gazin.Infra\bin\Debug\net6.0\Gazin.Dominio.pdb
+C:\Projetos\Gazin\src\Core\Gazin.Infra\obj\Debug\net6.0\Gazin.Infra.csproj.AssemblyReference.cache
+C:\Projetos\Gazin\src\Core\Gazin.Infra\obj\Debug\net6.0\Gazin.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Gazin\src\Core\Gazin.Infra\obj\Debug\net6.0\Gazin.Infra.AssemblyInfoInputs.cache
+C:\Projetos\Gazin\src\Core\Gazin.Infra\obj\Debug\net6.0\Gazin.Infra.AssemblyInfo.cs
+C:\Projetos\Gazin\src\Core\Gazin.Infra\obj\Debug\net6.0\Gazin.Infra.csproj.CoreCompileInputs.cache
+C:\Projetos\Gazin\src\Core\Gazin.Infra\obj\Debug\net6.0\Gazin.Infra.csproj.CopyComplete
+C:\Projetos\Gazin\src\Core\Gazin.Infra\obj\Debug\net6.0\Gazin.Infra.dll
+C:\Projetos\Gazin\src\Core\Gazin.Infra\obj\Debug\net6.0\ref\Gazin.Infra.dll
+C:\Projetos\Gazin\src\Core\Gazin.Infra\obj\Debug\net6.0\Gazin.Infra.pdb
+C:\Projetos\Gazin\src\Core\Gazin.Infra\obj\Debug\net6.0\Gazin.Infra.genruntimeconfig.cache

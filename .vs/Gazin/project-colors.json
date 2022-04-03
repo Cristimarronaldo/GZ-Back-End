@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6aa1c418-e2a6-4918-a8d4-35bd65520d37": {
+      "ProjectGuid": "6aa1c418-e2a6-4918-a8d4-35bd65520d37",
+      "DisplayName": "Gazin.API",
+      "ColorIndex": 0
+    },
+    "176aea06-b0c1-428b-97bf-71c6121b21a7": {
+      "ProjectGuid": "176aea06-b0c1-428b-97bf-71c6121b21a7",
+      "DisplayName": "Gazin.API",
+      "ColorIndex": 1
+    },
+    "b09b6693-6509-4345-b144-e7104fcf9289": {
+      "ProjectGuid": "b09b6693-6509-4345-b144-e7104fcf9289",
+      "DisplayName": "Gazin.Infra",
+      "ColorIndex": 2
+    },
+    "80881d08-c94c-462b-8116-a65077adbe9c": {
+      "ProjectGuid": "80881d08-c94c-462b-8116-a65077adbe9c",
+      "DisplayName": "Gazin.Dominio",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

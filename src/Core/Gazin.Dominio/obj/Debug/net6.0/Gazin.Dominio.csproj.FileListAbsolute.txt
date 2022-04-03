@@ -1,0 +1,12 @@
+C:\Projetos\Gazin\src\Core\Gazin.Dominio\bin\Debug\net6.0\Gazin.Dominio.deps.json
+C:\Projetos\Gazin\src\Core\Gazin.Dominio\bin\Debug\net6.0\Gazin.Dominio.dll
+C:\Projetos\Gazin\src\Core\Gazin.Dominio\bin\Debug\net6.0\ref\Gazin.Dominio.dll
+C:\Projetos\Gazin\src\Core\Gazin.Dominio\bin\Debug\net6.0\Gazin.Dominio.pdb
+C:\Projetos\Gazin\src\Core\Gazin.Dominio\obj\Debug\net6.0\Gazin.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Gazin\src\Core\Gazin.Dominio\obj\Debug\net6.0\Gazin.Dominio.AssemblyInfoInputs.cache
+C:\Projetos\Gazin\src\Core\Gazin.Dominio\obj\Debug\net6.0\Gazin.Dominio.AssemblyInfo.cs
+C:\Projetos\Gazin\src\Core\Gazin.Dominio\obj\Debug\net6.0\Gazin.Dominio.csproj.CoreCompileInputs.cache
+C:\Projetos\Gazin\src\Core\Gazin.Dominio\obj\Debug\net6.0\Gazin.Dominio.dll
+C:\Projetos\Gazin\src\Core\Gazin.Dominio\obj\Debug\net6.0\ref\Gazin.Dominio.dll
+C:\Projetos\Gazin\src\Core\Gazin.Dominio\obj\Debug\net6.0\Gazin.Dominio.pdb
+C:\Projetos\Gazin\src\Core\Gazin.Dominio\obj\Debug\net6.0\Gazin.Dominio.csproj.AssemblyReference.cache
