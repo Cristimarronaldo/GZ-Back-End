@@ -10,7 +10,7 @@ Dentro do projeto (Back-End) tem o script para criação do banco de dados e tab
 
 
 
-SPA - Angular
+SPA - Angular Quando baixar o projeto Front-End é necessário executar o comando "npm install ou npm i" para baixar as dependência necessária do angular.
 - Para configurar o URL da API é usado environment do angular.
 
 Configurar o banco de dados da API (Projeto Gazin.API), foi usado appsettings.Production.json e appsettings.Development.json que esta dentro da pasta src/Servico.
