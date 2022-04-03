@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{522B360F-7E5F-4B88-9645-82C9D0260395}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Servico", "Servico", "{B617D669-4C85-4A72-9581-A922F7358E7F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dominio", "Dominio", "{C073DD69-E04E-4480-A263-127C73992CA0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra", "Infra", "{3240F560-E295-4ED6-8E2F-CD7F8F9AEC19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gazin.API", "src\Gazin.API\Gazin.API.csproj", "{176AEA06-B0C1-428B-97BF-71C6121B21A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gazin.Infra", "src\Core\Gazin.Infra\Gazin.Infra.csproj", "{B09B6693-6509-4345-B144-E7104FCF9289}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gazin.Dominio", "src\Core\Gazin.Dominio\Gazin.Dominio.csproj", "{80881D08-C94C-462B-8116-A65077ADBE9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{176AEA06-B0C1-428B-97BF-71C6121B21A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{176AEA06-B0C1-428B-97BF-71C6121B21A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{176AEA06-B0C1-428B-97BF-71C6121B21A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{176AEA06-B0C1-428B-97BF-71C6121B21A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B09B6693-6509-4345-B144-E7104FCF9289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B09B6693-6509-4345-B144-E7104FCF9289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B09B6693-6509-4345-B144-E7104FCF9289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B09B6693-6509-4345-B144-E7104FCF9289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80881D08-C94C-462B-8116-A65077ADBE9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80881D08-C94C-462B-8116-A65077ADBE9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80881D08-C94C-462B-8116-A65077ADBE9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80881D08-C94C-462B-8116-A65077ADBE9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B617D669-4C85-4A72-9581-A922F7358E7F} = {522B360F-7E5F-4B88-9645-82C9D0260395}
+		{C073DD69-E04E-4480-A263-127C73992CA0} = {522B360F-7E5F-4B88-9645-82C9D0260395}
+		{3240F560-E295-4ED6-8E2F-CD7F8F9AEC19} = {522B360F-7E5F-4B88-9645-82C9D0260395}
+		{176AEA06-B0C1-428B-97BF-71C6121B21A7} = {B617D669-4C85-4A72-9581-A922F7358E7F}
+		{B09B6693-6509-4345-B144-E7104FCF9289} = {3240F560-E295-4ED6-8E2F-CD7F8F9AEC19}
+		{80881D08-C94C-462B-8116-A65077ADBE9C} = {C073DD69-E04E-4480-A263-127C73992CA0}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {507E3218-C9EB-4AF6-9F71-D712F214278C}
+	EndGlobalSection
+EndGlobal
