@@ -27,4 +27,4 @@ Configurar o banco de dados da API (Projeto Gazin.API), foi usado appsettings.Pr
   - No nome precisa ter entre 3 a 100 caracteres.
   - O código nível precisa está preenchido.
   - Sexo precisa está preenchindo.
-  - Para gravar o desenvolvedor precisa ser maior ou igual 18 anos.
+  - Para gravar o desenvolvedor a idade dele precisa ser maior ou igual 18 anos.
